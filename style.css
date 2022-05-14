@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    position: relative;
+}
+#top{
+    text-align: center;
+    background-color: rgb(227, 60, 171);
+    padding: 0.3cm;
+}
+a{
+    color: black;
+    cursor: pointer;
+}
+.head{
+    padding: 0.5cm;
+    margin-top: 2px;
+}
+.head1{
+    position: absolute;
+    padding-left: 1cm;
+}
+.head2{
+    position: relative;
+    text-align: center;
+    left: 16cm;
+    top: -1.3cm;
+    color: rgb(245, 187, 94);
+}
+.hd4{
+    position: relative;
+}
+#img1{
+    position: absolute;
+    left: 30.7cm;
+    top: -3.5cm;
+}
+#aa{
+    position: absolute;
+    left: 31.5cm;
+    top: -3.4cm;
+    text-decoration: none;
+}
+
+#img2{
+    position: absolute;
+    left: 34cm;
+    top: -3.5cm;
+}
+#aa1{
+    position: absolute;
+    left: 34.8cm;
+    top: -3.4cm;
+}
+#sp{
+    position: absolute;
+    left: 36cm;
+    top: -3.4cm;
+}
+.sp1{
+    border-radius: 100%;
+    background-color: rgb(196,160,146);
+    padding: 2px;
+    text-align: center;
+}
+.nav{
+    position: relative; 
+    top: 3.5cm;
+    background-color: rgb(231, 62, 90);
+    justify-content: center;
+}
+.nav-cont {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .nav-item {
+    padding: 0.3cm;
+  }
+.content{
+    position: relative;
+    top: 3.6cm;
+    overflow: hidden;
+}
+.content1{
+    position: relative;
+    top: 3.6cm;
+    padding: 0.5cm;
+}
+.con{
+    position: absolute;
+    left: 4cm;
+    text-align: center;
+}
+.im1{
+    border-radius: 50%;
+}
+.con1{
+    position: absolute;
+    left: 14cm;
+    text-align: center;
+}
+.con2{
+    position: absolute;
+    left: 9cm;
+    text-align: center;
+}
+.con3{
+    position: absolute;
+    left: 19cm;
+    text-align: center;
+}
+.con4{
+    position: absolute;
+    left: 24cm;
+    text-align: center;
+}
+.con5{
+    position: absolute;
+    left: 29cm;
+    text-align: center;
+}
+.con6{
+    position: absolute;
+    left: 34cm;
+    text-align: center;
+}
